@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juge69
+- 👋 Hi, I’m @Juge69. AKA Julian.
 - 👀 I’m interested in Video games, music and programming. I have been playing games for a long time and music really runs in my family. I started with my study for software engeneering this year.
 - 🌱 I’m currently in college to get a degree in software developing. For now im mostly practicing html and css, soon i will also start with javascript and other background code types.
 - 💞️ I’m looking to collaborate on anything people need help with. For now i will mostly do it to learn more about how others approach issues, but i hope to grow and be able to commit useful changes myself.
